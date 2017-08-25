@@ -1,2 +1,3 @@
 # test
-test code about coding knowledge
+test codes about coding knowledge
+also include some experiments, some exploration
