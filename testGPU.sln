@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "testGPU1", "testGPU1\testGPU1.vcxproj", "{24C514DB-D0B8-40A5-B331-F7B9015DF56A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "testGPU2", "testGPU2\testGPU2.vcxproj", "{DFA0A5E0-38D1-4534-915E-40DBCABB2B5C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "flashlight", "flashlight\flashlight.vcxproj", "{107C4888-76AD-4C3A-B9B4-6C9BE56950CC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "multiplyMatrix", "multiplyMatrix\multiplyMatrix.vcxproj", "{4777D1A8-76F5-45DC-8556-089B54497CB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24C514DB-D0B8-40A5-B331-F7B9015DF56A}.Debug|x64.ActiveCfg = Debug|x64
+		{24C514DB-D0B8-40A5-B331-F7B9015DF56A}.Debug|x64.Build.0 = Debug|x64
+		{24C514DB-D0B8-40A5-B331-F7B9015DF56A}.Debug|x86.ActiveCfg = Debug|x64
+		{24C514DB-D0B8-40A5-B331-F7B9015DF56A}.Release|x64.ActiveCfg = Release|x64
+		{24C514DB-D0B8-40A5-B331-F7B9015DF56A}.Release|x64.Build.0 = Release|x64
+		{24C514DB-D0B8-40A5-B331-F7B9015DF56A}.Release|x86.ActiveCfg = Release|x64
+		{DFA0A5E0-38D1-4534-915E-40DBCABB2B5C}.Debug|x64.ActiveCfg = Debug|x64
+		{DFA0A5E0-38D1-4534-915E-40DBCABB2B5C}.Debug|x64.Build.0 = Debug|x64
+		{DFA0A5E0-38D1-4534-915E-40DBCABB2B5C}.Debug|x86.ActiveCfg = Debug|x64
+		{DFA0A5E0-38D1-4534-915E-40DBCABB2B5C}.Release|x64.ActiveCfg = Release|x64
+		{DFA0A5E0-38D1-4534-915E-40DBCABB2B5C}.Release|x64.Build.0 = Release|x64
+		{DFA0A5E0-38D1-4534-915E-40DBCABB2B5C}.Release|x86.ActiveCfg = Release|x64
+		{107C4888-76AD-4C3A-B9B4-6C9BE56950CC}.Debug|x64.ActiveCfg = Debug|x64
+		{107C4888-76AD-4C3A-B9B4-6C9BE56950CC}.Debug|x64.Build.0 = Debug|x64
+		{107C4888-76AD-4C3A-B9B4-6C9BE56950CC}.Debug|x86.ActiveCfg = Debug|x64
+		{107C4888-76AD-4C3A-B9B4-6C9BE56950CC}.Release|x64.ActiveCfg = Release|x64
+		{107C4888-76AD-4C3A-B9B4-6C9BE56950CC}.Release|x64.Build.0 = Release|x64
+		{107C4888-76AD-4C3A-B9B4-6C9BE56950CC}.Release|x86.ActiveCfg = Release|x64
+		{4777D1A8-76F5-45DC-8556-089B54497CB5}.Debug|x64.ActiveCfg = Debug|x64
+		{4777D1A8-76F5-45DC-8556-089B54497CB5}.Debug|x64.Build.0 = Debug|x64
+		{4777D1A8-76F5-45DC-8556-089B54497CB5}.Debug|x86.ActiveCfg = Debug|x64
+		{4777D1A8-76F5-45DC-8556-089B54497CB5}.Release|x64.ActiveCfg = Release|x64
+		{4777D1A8-76F5-45DC-8556-089B54497CB5}.Release|x64.Build.0 = Release|x64
+		{4777D1A8-76F5-45DC-8556-089B54497CB5}.Release|x86.ActiveCfg = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D5CF38D-1ADE-4488-9C54-050FAB3F3329}
+	EndGlobalSection
+EndGlobal
